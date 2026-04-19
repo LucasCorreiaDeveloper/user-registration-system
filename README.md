@@ -39,7 +39,7 @@ MongoDB
 
 🛠️ Tecnologias utilizadas
 
-FrontEnd (HTML, CSS, JavaScript)
+FrontEnd (HTML, CSS, JavaScript, TypeScript)
 -React
 -Vite
 Backend
